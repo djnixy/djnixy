@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Niki Akbar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-<!---- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me ...
+# 👋 Hi, I'm Niki Akbar
 
-<!---
-djnixy/djnixy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**DevOps / DevSecOps / Platform Engineer** with 6+ years of experience specializing in reliable cloud platforms, Kubernetes multi-tenancy, and automated CI/CD pipelines.
+
+### 🚀 Core Expertise
+- **Cloud:** AWS, Azure, GCP, DigitalOcean
+- **Orchestration:** Kubernetes, Docker, Helm, ArgoCD (GitOps)
+- **IaC:** Terraform, Ansible, Terramate
+- **Observability:** Prometheus, Grafana, Loki, ELK Stack
+- **Security:** DevSecOps, Vulnerability Scanning (Trivy, SonarCloud, Wazuh), OS Hardening
+
+### 📬 Connect with me:
+- **LinkedIn:** [nikiakbar](https://www.linkedin.com/in/nikiakbar)
+- **Website:** [skills-demo](https://github.com/djnixy/skills-demo)
