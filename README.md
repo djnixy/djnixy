@@ -7,7 +7,6 @@
 - **Orchestration:** Kubernetes, Docker, Helm, ArgoCD (GitOps)
 - **IaC:** Terraform, Ansible, Terramate
 - **Observability:** Prometheus, Grafana, Loki, ELK Stack
-- **Security:** DevSecOps, Vulnerability Scanning (Trivy, SonarCloud, Wazuh), OS Hardening
 
 ### 📬 Connect with me:
 - **LinkedIn:** [nikiakbar](https://www.linkedin.com/in/nikiakbar)
