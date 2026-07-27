@@ -1,0 +1,19 @@
+# Recruiter Responses - TalentPort
+
+Question 1: Is a Unix-like environment (Linux/macOS) your primary daily operating system, and are you fully comfortable managing collaborative development workflows (branching, PRs, code reviews) via Git?
+Answer: Yes, macOS and Linux are my primary operating systems, though I'm also comfortable working with Windows via WSL. I am fully experienced with collaborative development workflows using Git, including branching, PRs, and code reviews.
+
+Question 2: Do you have practical, hands-on experience operating and troubleshooting Kubernetes clusters in a live production environment using GitOps workflows (such as ArgoCD or FluxCD)?
+Answer: Yes, I have practical experience using ArgoCD for GitOps workflows.
+
+Question 3: Do you have strong, practical experience managing cloud infrastructure within Azure, specifically utilizing AKS, Azure networking, and Azure Identity/Access Management?
+Answer: I have about a year of experience with Azure AKS, networking, and Entra ID, though my strongest expertise is with AWS.
+
+Question 4: Have you built and maintained automated CI/CD pipelines (e.g., GitHub Actions, GitLab CI/CD) and operated production systems using modern observability tools like Prometheus and Grafana?
+Answer: Yes, I have experience building and maintaining CI/CD pipelines using GitHub Actions, GitLab CI/CD, Azure DevOps, and AWS CodePipeline. I also have experience in production observability, having implemented Prometheus, Grafana, and Loki.
+
+Question 5: Are you fluent in both spoken and written English, with the ability to write clear technical documentation and participate professionally in incident response or customer-facing activities?
+Answer: Yes, I am proficient in both spoken and written English. I am comfortable writing technical documentation and participating in professional incident response and customer-facing activities.
+
+Question 6: Share your current gross salary, expected gross salary, and official notice period.
+Answer: My current gross salary is IDR 27,000,000 per month. I am expecting IDR 30,000,000 per month, but I am open to negotiation. My official notice period is 14 days.
