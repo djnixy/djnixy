@@ -7,6 +7,7 @@
 - **Orchestration:** Kubernetes, Docker, Helm, ArgoCD (GitOps)
 - **IaC:** Terraform, Ansible, Terramate
 - **Observability:** Prometheus, Grafana, Loki, ELK Stack
+- **CI/CD:** AWS CodePipeline GitHub Actions, Azure DevOps, Argo Workflows
 
 ### 📬 Connect with me:
 - **LinkedIn:** [nikiakbar](https://www.linkedin.com/in/nikiakbar)
